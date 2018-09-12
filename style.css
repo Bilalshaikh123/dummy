@@ -1,0 +1,16 @@
+<style>
+h1{ font: 200 color: gold;
+    text-tranform:uppercase;
+}
+img{
+    width: 500px;
+    border: 5px solid red;
+}
+</style>
+<head>
+<body>
+<h1 my #@1234</h1>
+<img src="mozila.jpg"height="500" width="400"/>
+
+</body>
+</head>
